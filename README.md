@@ -18,7 +18,8 @@ A simple and responsive currency converter web application built using **HTML**,
 
 ## 📷 Screenshots
 
- Currency_Convertor/Currency_Convertor.png
+ ![App Screenshot](Currency_Convertor.png)
+
 
 ## 🔧 How It Works
 
